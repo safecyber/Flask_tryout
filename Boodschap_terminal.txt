@@ -1,0 +1,3 @@
+fatal: a branch named 'main' already exists
+
+deze foutmelding krijg je omdat de huidige repository met branchnaam main al bestaat. Dit omdat ik een git clone gedaan heb via Visual Studio.
